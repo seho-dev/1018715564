@@ -33,9 +33,9 @@
 <td valign="top" width="50%">
   
 #### 🏊‍♂️ <span>联系我，啾咪嘤嘤嘤</span>
-<span>知乎@Shen。(后面有一个句号)</span> - 2020-07-23
-<span>微信：npm_install_s</span> - 2020-07-23
-<span>前端弟弟别喷，希望我们一起进步</span> - 2020-07-23
+<div>知乎@Shen。(后面有一个句号)</div> - 2020-07-23
+<div>微信：npm_install_s</div> - 2020-07-23
+<div>前端弟弟别喷，希望我们一起进步</div> - 2020-07-23
 
 </td>
 <td valign="top" width="50%">
