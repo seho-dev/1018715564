@@ -12,7 +12,8 @@
 <tr>
 <td valign="top" width="50%">
 
-  * <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.1' target='_blank'>MiaoYan 第一个可用版本</a> - 2020-05-28
+#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">开源项目</a>
+* <a href='https://github.com/1018715564/i-uniapp' target='_blank'>I-uniapp组件库（持续更新中，即将重构）</a> - 2020-07-23
 <!-- recent_releases ends -->
 </td>
 <td valign="top" width="50%">
