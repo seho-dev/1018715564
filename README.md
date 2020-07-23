@@ -18,21 +18,19 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://tw93.github.io/" target="_blank">我的博客，不定期更新，太忙了呜呜呜</a>
 
 <!-- blog starts -->
-* <a href='https://tw93.github.io/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
-* <a href='https://tw93.github.io/2020-06-28/zaozaoliao.html' target='_blank'>早早聊微前端专题分享</a> - 2020-06-28
-* <a href='https://tw93.github.io/2020-05-27/good-app.html' target='_blank'>我的 2020 🔥软件分享</a> - 2020-05-27
-* <a href='https://tw93.github.io/2020-04-21/one.html' target='_blank'>飞猪统一运营工作台的解决方案</a> - 2020-04-21
-* <a href='https://tw93.github.io/2020-03-30/serverless-two.html' target='_blank'>飞猪 Serverless 体系建设（S2）</a> - 2020-03-30
+* <a href='https://www.yinzhuoei.com/index.php/archives/241' target='_blank'>vue工程从10s+加载到1s加载的优化实践</a> - 2020-06-06
+* <a href='https://www.yinzhuoei.com/index.php/archives/202/' target='_blank'>【大家一起学习vue源码】源码构建</a> - 2020-04-27
+* <a href='https://www.yinzhuoei.com' target='_blank'>更多...</a> - 2020-05-27
 <!-- blog ends -->
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
-  #### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
+#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
 
