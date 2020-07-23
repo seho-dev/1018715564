@@ -48,14 +48,11 @@ Git                 9 mins  ███░░░░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
+#### 🤾‍♂️ <span>最近在看的书和想读></span>
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/26794026/' target='_blank'>最近在读超额收益</a> - 2020-07-19
-* <a href='https://book.douban.com/subject/1449351/' target='_blank'>想读呐喊</a> - 2020-07-19
-* <a href='https://book.douban.com/subject/1054685/' target='_blank'>想读沉默的大多数</a> - 2020-07-19
-* <a href='https://book.douban.com/subject/10554308/' target='_blank'>想读白夜行</a> - 2020-07-19
-* <a href='http://movie.douban.com/subject/1294019/' target='_blank'>看过监狱风云2：逃犯</a> - 2020-07-19
+* <a href='https://item.jd.com/27788734578.html' target='_blank'>最近在看JS忍者秘籍</a> - 2020-07-23
+* <span>想读关于设计模式的书籍， 求推荐</span> - 2020-07-23
 <!-- douban ends -->
 
 </td>
