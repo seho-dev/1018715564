@@ -32,8 +32,10 @@
 <tr>
 <td valign="top" width="50%">
   
-#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
-
+#### 🏊‍♂️ <span>联系我，啾咪嘤嘤嘤</span>
+<span>知乎@Shen。(后面有一个句号)</span> - 2020-07-23
+<span>微信：npm_install_s</span> - 2020-07-23
+<span>前端弟弟别喷，希望我们一起进步</span> - 2020-07-23
 
 </td>
 <td valign="top" width="50%">
