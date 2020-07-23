@@ -12,13 +12,14 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">开源项目</a>
+#### 🏋️‍♀️ <a href="https://github.com/1018715564" target="_blank">开源项目</a>
 * <a href='https://github.com/1018715564/i-uniapp' target='_blank'>I-uniapp组件库（持续更新中，即将重构）</a> - 2020-07-23
+* <a href='https://www.npmjs.com/package/observertools' target='_blank'>observertools.js一款易于构建很厉害列表的监听库用于webAPP （测试版本）</a> - 2020-07-23
 <!-- recent_releases ends -->
 </td>
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://tw93.github.io/" target="_blank">我的博客，不定期更新，太忙了呜呜呜</a>
+#### 🤹‍♀️ <a href="https://www.yinzhuoei.com" target="_blank">我的博客，不定期更新，太忙了呜呜呜</a>
 
 <!-- blog starts -->
 * <a href='https://www.yinzhuoei.com/index.php/archives/241' target='_blank'>vue工程从10s+加载到1s加载的优化实践</a> - 2020-06-06
@@ -30,25 +31,14 @@
 </tr>
 <tr>
 <td valign="top" width="50%">
+  
 #### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
-<!-- code_time starts -->
-
-```text
-Markdown     6 hrs 21 mins  █████████████▒░░░░░░  53.3%
-Python       2 hrs 29 mins  ███████░░░░░░░░░░░░░  20.9%
-YAML                  1 hr  ████▓░░░░░░░░░░░░░░░   8.4%
-TypeScript         53 mins  ████▒░░░░░░░░░░░░░░░   7.5%
-JSON               47 mins  ████░░░░░░░░░░░░░░░░   6.6%
-Git                 9 mins  ███░░░░░░░░░░░░░░░░░   1.3%
-```
-
-<!-- code_time ends -->
 
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <span>最近在看的书和想读></span>
+#### 🤾‍♂️ <span>最近在看的书和想读的/span>
 
 <!-- douban starts -->
 * <a href='https://item.jd.com/27788734578.html' target='_blank'>最近在看JS忍者秘籍</a> - 2020-07-23
