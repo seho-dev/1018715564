@@ -40,7 +40,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <span>最近在看的书和想读的/span>
+#### 🤾‍♂️ <span>最近在看的书和想读的</span>
 
 <!-- douban starts -->
 * <a href='https://item.jd.com/27788734578.html' target='_blank'>最近在看JS忍者秘籍</a> - 2020-07-23
