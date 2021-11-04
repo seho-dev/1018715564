@@ -26,6 +26,7 @@ Hi, I'm Seho a full stack software engineer from China.
 <code><img height="18" src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-c7e81452-9d28-4486-bedc-5dbf7c8386a5/c26ac3c8-1aad-4db3-8b52-2f55e4df44fe.png"></code>   
 </div>
 
-<br/>
+<!--START_SECTION:waka--> 
+<!--END_SECTION:waka-->
 
-![](https://github-readme-stats.vercel.app/api?username=1018715564)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
