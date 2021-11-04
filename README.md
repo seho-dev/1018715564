@@ -26,7 +26,14 @@ Hi, I'm Seho a full stack software engineer from China.
 <code><img height="18" src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-c7e81452-9d28-4486-bedc-5dbf7c8386a5/c26ac3c8-1aad-4db3-8b52-2f55e4df44fe.png"></code>   
 </div>
 
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
+```text
+TypeScript   13 hrs 57 mins  ███████████░░░░░░░░░░░░░░   43.54 % 
+Vue.js       10 hrs 41 mins  ████████▒░░░░░░░░░░░░░░░░   33.36 % 
+JSON         3 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+JavaScript   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Bash         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
