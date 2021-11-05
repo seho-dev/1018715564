@@ -38,7 +38,7 @@ Bash         53 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [《开发更健壮的前端程序》PPT内容](https://www.yinzhuoei.com/index.php/archives/686/)
 - [其实YAPI也可以帮助我们构建更加健壮的TS程序](https://www.yinzhuoei.com/index.php/archives/596/)
