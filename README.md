@@ -40,6 +40,11 @@ Bash         53 mins         ▓░░░░░░░░░░░░░░░░
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [《开发更健壮的前端程序》PPT内容](https://www.yinzhuoei.com/index.php/archives/686/)
+- [其实YAPI也可以帮助我们构建更加健壮的TS程序](https://www.yinzhuoei.com/index.php/archives/596/)
+- [简单聊聊作为剑指题解作者在v1.1.0版本所做出的突破](https://www.yinzhuoei.com/index.php/archives/590/)
+- [Vite系列(二)：我基于Vite搞了一个项目模板](https://www.yinzhuoei.com/index.php/archives/570/)
+- [《偶尔更新的日记 9-13》](https://www.yinzhuoei.com/index.php/archives/584/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
