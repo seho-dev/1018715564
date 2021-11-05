@@ -45,6 +45,11 @@ Bash         53 mins         ▓░░░░░░░░░░░░░░░░
 - [简单聊聊作为剑指题解作者在v1.1.0版本所做出的突破](https://www.yinzhuoei.com/index.php/archives/590/)
 - [Vite系列(二)：我基于Vite搞了一个项目模板](https://www.yinzhuoei.com/index.php/archives/570/)
 - [《偶尔更新的日记 9-13》](https://www.yinzhuoei.com/index.php/archives/584/)
+- [人类高质量男性开发的基于TS且自带运行时校验的unicloud云函数是什么样子的？](https://www.yinzhuoei.com/index.php/archives/568/)
+- [开发一个适合小微前端团队的命令行工具（TypeScript + Etsc）](https://www.yinzhuoei.com/index.php/archives/573/)
+- [9月课程表](https://www.yinzhuoei.com/index.php/archives/572/)
+- [《偶尔更新的日记 8-17》](https://www.yinzhuoei.com/index.php/archives/567/)
+- [[See How]全栈Node TS框架TSRPC实践教程（一）](https://www.yinzhuoei.com/index.php/archives/555/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
