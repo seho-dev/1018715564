@@ -37,7 +37,6 @@ JavaScript   1 hr 32 mins    █▒░░░░░░░░░░░░░░░
 Bash         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 ```
 <!--END_SECTION:waka-->
-
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [《开发更健壮的前端程序》PPT内容](https://www.yinzhuoei.com/index.php/archives/686/)
