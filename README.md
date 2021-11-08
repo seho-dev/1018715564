@@ -42,7 +42,7 @@ JavaScript   1 hr 13 mins    █░░░░░░░░░░░░░░░░
 - [《开发更健壮的前端程序》PPT内容](https://www.yinzhuoei.com/index.php/archives/686/)
 - [其实YAPI也可以帮助我们构建更加健壮的TS程序](https://www.yinzhuoei.com/index.php/archives/596/)
 - [简单聊聊作为剑指题解作者在v1.1.0版本所做出的突破](https://www.yinzhuoei.com/index.php/archives/590/)
-- [Vite系列(二)：我基于Vite搞了一个项目模板](https://www.yinzhuoei.com/index.php/archives/570/)
+- [Vite系列&lpar;二&rpar;：我基于Vite搞了一个项目模板](https://www.yinzhuoei.com/index.php/archives/570/)
 - [《偶尔更新的日记 9-13》](https://www.yinzhuoei.com/index.php/archives/584/)
 - [人类高质量男性开发的基于TS且自带运行时校验的unicloud云函数是什么样子的？](https://www.yinzhuoei.com/index.php/archives/568/)
 - [开发一个适合小微前端团队的命令行工具（TypeScript + Etsc）](https://www.yinzhuoei.com/index.php/archives/573/)
