@@ -39,6 +39,7 @@ Bash         1 hr 22 mins    █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[See How]简单聊聊前端渲染模式以及Nuxt3.js](https://www.yinzhuoei.com/index.php/archives/692/)
 - [《开发更健壮的前端程序》PPT内容](https://www.yinzhuoei.com/index.php/archives/686/)
 - [其实YAPI也可以帮助我们构建更加健壮的TS程序](https://www.yinzhuoei.com/index.php/archives/596/)
 - [简单聊聊作为剑指题解作者在v1.1.0版本所做出的突破](https://www.yinzhuoei.com/index.php/archives/590/)
@@ -48,7 +49,6 @@ Bash         1 hr 22 mins    █▒░░░░░░░░░░░░░░░
 - [开发一个适合小微前端团队的命令行工具（TypeScript + Etsc）](https://www.yinzhuoei.com/index.php/archives/573/)
 - [9月课程表](https://www.yinzhuoei.com/index.php/archives/572/)
 - [《偶尔更新的日记 8-17》](https://www.yinzhuoei.com/index.php/archives/567/)
-- [[See How]全栈Node TS框架TSRPC实践教程（一）](https://www.yinzhuoei.com/index.php/archives/555/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
