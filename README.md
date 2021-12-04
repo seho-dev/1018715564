@@ -39,6 +39,7 @@ JavaScript   1 hr 32 mins    ██░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [用Graphql+Typescript+Hasura+Vue3+TSRPC构建全栈应用](https://www.yinzhuoei.com/index.php/archives/724/)
 - [yeah～，我今天21岁了，真的有很多话想说](https://www.yinzhuoei.com/index.php/archives/715/)
 - [Base西安, 岗位产品经理，内推一份熟人简历，有需要的企业联系](https://www.yinzhuoei.com/index.php/archives/702/)
 - [[See How]简单聊聊前端渲染模式以及Nuxt3.js](https://www.yinzhuoei.com/index.php/archives/692/)
@@ -48,7 +49,6 @@ JavaScript   1 hr 32 mins    ██░░░░░░░░░░░░░░░
 - [Vite系列&lpar;二&rpar;：我基于Vite搞了一个项目模板](https://www.yinzhuoei.com/index.php/archives/570/)
 - [《偶尔更新的日记 9-13》](https://www.yinzhuoei.com/index.php/archives/584/)
 - [人类高质量男性开发的基于TS且自带运行时校验的unicloud云函数是什么样子的？](https://www.yinzhuoei.com/index.php/archives/568/)
-- [开发一个适合小微前端团队的命令行工具（TypeScript + Etsc）](https://www.yinzhuoei.com/index.php/archives/573/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
