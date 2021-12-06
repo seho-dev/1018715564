@@ -4,7 +4,7 @@ Hi, I'm Seho a full stack software engineer from China.
 
 - 🙋🏼‍♂️ I’m now in the blockchain industry
 - 🎯 My current technical focus is frontend
-- 💻 I’m currently learning Ruby and Canvas
+- 💻 I’m currently learning Rust
 - 🏢 My current working city is Xi An
 - 💬 Ask me about anything [here](https://github.com/1018715564/1018715564/issues)
 
