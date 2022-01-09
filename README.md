@@ -39,6 +39,7 @@ JSON         33 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [我写了一个多平台的状态管理持久化的库](https://www.yinzhuoei.com/index.php/archives/752/)
 - [2021年终总结](https://www.yinzhuoei.com/index.php/archives/730/)
 - [简单聊聊2022（不是年终总结，就杂聊，尬聊）](https://www.yinzhuoei.com/index.php/archives/729/)
 - [用Graphql+Typescript+Hasura+Vue3+TSRPC构建全栈应用](https://www.yinzhuoei.com/index.php/archives/724/)
@@ -48,7 +49,6 @@ JSON         33 mins         █░░░░░░░░░░░░░░░░
 - [《开发更健壮的前端程序》PPT内容](https://www.yinzhuoei.com/index.php/archives/686/)
 - [其实YAPI也可以帮助我们构建更加健壮的TS程序](https://www.yinzhuoei.com/index.php/archives/596/)
 - [简单聊聊作为剑指题解作者在v1.1.0版本所做出的突破](https://www.yinzhuoei.com/index.php/archives/590/)
-- [Vite系列&lpar;二&rpar;：我基于Vite搞了一个项目模板](https://www.yinzhuoei.com/index.php/archives/570/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
