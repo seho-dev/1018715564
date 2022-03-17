@@ -39,6 +39,8 @@ JSON         33 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [关于框架（vue.js/sword.js）设计中的“权衡”](https://www.yinzhuoei.com/index.php/archives/765/)
+- [我最近在写一款Nodejs serverless框架（预告）](https://www.yinzhuoei.com/index.php/archives/764/)
 - [Rust: 初探“所有权”奥秘](https://www.yinzhuoei.com/index.php/archives/727/)
 - [我写了一个多平台的状态管理持久化的库](https://www.yinzhuoei.com/index.php/archives/752/)
 - [2021年终总结](https://www.yinzhuoei.com/index.php/archives/730/)
@@ -47,8 +49,6 @@ JSON         33 mins         █░░░░░░░░░░░░░░░░
 - [yeah～，我今天21岁了，真的有很多话想说](https://www.yinzhuoei.com/index.php/archives/715/)
 - [Base西安, 岗位产品经理，内推一份熟人简历，有需要的企业联系](https://www.yinzhuoei.com/index.php/archives/702/)
 - [[See How]简单聊聊前端渲染模式以及Nuxt3.js](https://www.yinzhuoei.com/index.php/archives/692/)
-- [《开发更健壮的前端程序》PPT内容](https://www.yinzhuoei.com/index.php/archives/686/)
-- [其实YAPI也可以帮助我们构建更加健壮的TS程序](https://www.yinzhuoei.com/index.php/archives/596/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
