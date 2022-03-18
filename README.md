@@ -29,13 +29,16 @@ Hi, I'm Seho a full stack software engineer from China.
 ### Wakatime
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   10 hrs 1 min    ████████████████▓░░░░░░░░   66.80 % 
-Vue.js       1 hr 59 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Markdown     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-JavaScript   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+TypeScript   18 hrs 34 mins  ███████████████████▒░░░░░   77.86 %
+JSON         2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Dart         1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+JavaScript   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+YAML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
+
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
