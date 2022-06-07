@@ -41,6 +41,7 @@ Other        44 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [女朋友想学习UI设计, 咱作为全栈工程师给她来一套方法论吧~](https://www.yinzhuoei.com/index.php/archives/772/)
 - [关于框架（vue.js/sword.js）设计中的“权衡”](https://www.yinzhuoei.com/index.php/archives/765/)
 - [我最近在写一款Nodejs serverless框架（预告）](https://www.yinzhuoei.com/index.php/archives/764/)
 - [Rust: 初探“所有权”奥秘](https://www.yinzhuoei.com/index.php/archives/727/)
@@ -50,7 +51,6 @@ Other        44 mins         █░░░░░░░░░░░░░░░░
 - [用Graphql+Typescript+Hasura+Vue3+TSRPC构建全栈应用](https://www.yinzhuoei.com/index.php/archives/724/)
 - [yeah～，我今天21岁了，真的有很多话想说](https://www.yinzhuoei.com/index.php/archives/715/)
 - [Base西安, 岗位产品经理，内推一份熟人简历，有需要的企业联系](https://www.yinzhuoei.com/index.php/archives/702/)
-- [[See How]简单聊聊前端渲染模式以及Nuxt3.js](https://www.yinzhuoei.com/index.php/archives/692/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
