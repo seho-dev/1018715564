@@ -43,6 +43,7 @@ Markdown     14 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [简单聊聊Rust和JavaScript同时存在的精度问题](https://www.yinzhuoei.com/index.php/archives/776/)
 - [浅谈Rust基础类型](https://www.yinzhuoei.com/index.php/archives/775/)
 - [女朋友想学习UI设计, 咱作为全栈工程师给她来一套方法论吧~](https://www.yinzhuoei.com/index.php/archives/772/)
 - [关于框架（vue.js/sword.js）设计中的“权衡”](https://www.yinzhuoei.com/index.php/archives/765/)
@@ -52,7 +53,6 @@ Markdown     14 mins         ░░░░░░░░░░░░░░░░░
 - [2021年终总结](https://www.yinzhuoei.com/index.php/archives/730/)
 - [简单聊聊2022（不是年终总结，就杂聊，尬聊）](https://www.yinzhuoei.com/index.php/archives/729/)
 - [用Graphql+Typescript+Hasura+Vue3+TSRPC构建全栈应用](https://www.yinzhuoei.com/index.php/archives/724/)
-- [yeah～，我今天21岁了，真的有很多话想说](https://www.yinzhuoei.com/index.php/archives/715/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
