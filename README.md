@@ -43,6 +43,7 @@ YAML         22 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SSR当代最强变种-island架构](https://www.yinzhuoei.com/index.php/archives/784/)
 - [简单聊聊Rust和JavaScript同时存在的精度问题](https://www.yinzhuoei.com/index.php/archives/776/)
 - [浅谈Rust基础类型](https://www.yinzhuoei.com/index.php/archives/775/)
 - [女朋友想学习UI设计, 咱作为全栈工程师给她来一套方法论吧~](https://www.yinzhuoei.com/index.php/archives/772/)
@@ -52,7 +53,6 @@ YAML         22 mins         ▒░░░░░░░░░░░░░░░░
 - [我写了一个多平台的状态管理持久化的库](https://www.yinzhuoei.com/index.php/archives/752/)
 - [2021年终总结](https://www.yinzhuoei.com/index.php/archives/730/)
 - [简单聊聊2022（不是年终总结，就杂聊，尬聊）](https://www.yinzhuoei.com/index.php/archives/729/)
-- [用Graphql+Typescript+Hasura+Vue3+TSRPC构建全栈应用](https://www.yinzhuoei.com/index.php/archives/724/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
