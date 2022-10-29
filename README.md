@@ -43,6 +43,7 @@ Markdown     27 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [在Next.js中打造一个Web IDE](https://www.yinzhuoei.com/index.php/archives/786/)
 - [简单聊聊Rust中的复合类型](https://www.yinzhuoei.com/index.php/archives/785/)
 - [SSR当代最强变种-island架构](https://www.yinzhuoei.com/index.php/archives/784/)
 - [简单聊聊Rust和JavaScript同时存在的精度问题](https://www.yinzhuoei.com/index.php/archives/776/)
@@ -52,7 +53,6 @@ Markdown     27 mins         ▒░░░░░░░░░░░░░░░░
 - [我最近在写一款Nodejs serverless框架（预告）](https://www.yinzhuoei.com/index.php/archives/764/)
 - [Rust: 初探“所有权”奥秘](https://www.yinzhuoei.com/index.php/archives/727/)
 - [我写了一个多平台的状态管理持久化的库](https://www.yinzhuoei.com/index.php/archives/752/)
-- [2021年终总结](https://www.yinzhuoei.com/index.php/archives/730/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
