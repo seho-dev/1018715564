@@ -43,6 +43,7 @@ Other           1 min           ░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [程序语言理论与实现: 编译技术概论](https://www.yinzhuoei.com/index.php/archives/789/)
 - [在Next.js中打造一个Web IDE](https://www.yinzhuoei.com/index.php/archives/786/)
 - [简单聊聊Rust中的复合类型](https://www.yinzhuoei.com/index.php/archives/785/)
 - [SSR当代最强变种-island架构](https://www.yinzhuoei.com/index.php/archives/784/)
@@ -52,7 +53,6 @@ Other           1 min           ░░░░░░░░░░░░░░░░
 - [关于框架（vue.js/sword.js）设计中的“权衡”](https://www.yinzhuoei.com/index.php/archives/765/)
 - [我最近在写一款Nodejs serverless框架（预告）](https://www.yinzhuoei.com/index.php/archives/764/)
 - [Rust: 初探“所有权”奥秘](https://www.yinzhuoei.com/index.php/archives/727/)
-- [我写了一个多平台的状态管理持久化的库](https://www.yinzhuoei.com/index.php/archives/752/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
