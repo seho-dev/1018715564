@@ -43,6 +43,7 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2022年终总结](https://www.yinzhuoei.com/index.php/archives/793/)
 - [程序语言理论与实现: 编译技术概论](https://www.yinzhuoei.com/index.php/archives/789/)
 - [在Next.js中打造一个Web IDE](https://www.yinzhuoei.com/index.php/archives/786/)
 - [简单聊聊Rust中的复合类型](https://www.yinzhuoei.com/index.php/archives/785/)
@@ -52,7 +53,6 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 - [女朋友想学习UI设计, 咱作为全栈工程师给她来一套方法论吧~](https://www.yinzhuoei.com/index.php/archives/772/)
 - [关于框架（vue.js/sword.js）设计中的“权衡”](https://www.yinzhuoei.com/index.php/archives/765/)
 - [我最近在写一款Nodejs serverless框架（预告）](https://www.yinzhuoei.com/index.php/archives/764/)
-- [Rust: 初探“所有权”奥秘](https://www.yinzhuoei.com/index.php/archives/727/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
