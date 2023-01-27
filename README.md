@@ -7,7 +7,7 @@ Hi, I'm Seho a full stack software engineer from China.
 - 💻 I’m currently learning Rust
 - 🏢 My current working city is Xi An
 - 💬 Ask me about anything [here](https://github.com/1018715564/1018715564/issues)
-- 😄 我最近在寻找一份新的工作🇨🇳 , 如果你的团队是富有创造力,有着激进的技术,而且正在做一些很酷的事情的话,如果你不在西安但是可以提供远程工作的岗位, 我也非常乐意!
+- 😄 我最近在寻找一份新的工作🇨🇳 ([简历在这里](https://static.yinzhuoei.com/typecho/2023/01/27/998982930680232/%E6%B2%88%E6%98%8A%20(Seho).pdf)) , 如果你的团队是富有创造力,有着激进的技术,而且正在做一些很酷的事情的话,如果你不在西安但是可以提供远程工作的岗位, 我也非常乐意!
 
 ### My social channels
 
