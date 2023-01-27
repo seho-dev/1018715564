@@ -43,6 +43,7 @@ JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [前端人需要掌握的HTTP知识](https://www.yinzhuoei.com/index.php/archives/803/)
 - [时隔2年锈迹斑斑的Vue3知识点](https://www.yinzhuoei.com/index.php/archives/794/)
 - [2022年终总结](https://www.yinzhuoei.com/index.php/archives/793/)
 - [程序语言理论与实现: 编译技术概论](https://www.yinzhuoei.com/index.php/archives/789/)
@@ -52,7 +53,6 @@ JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░
 - [简单聊聊Rust和JavaScript同时存在的精度问题](https://www.yinzhuoei.com/index.php/archives/776/)
 - [浅谈Rust基础类型](https://www.yinzhuoei.com/index.php/archives/775/)
 - [女朋友想学习UI设计, 咱作为全栈工程师给她来一套方法论吧~](https://www.yinzhuoei.com/index.php/archives/772/)
-- [关于框架（vue.js/sword.js）设计中的“权衡”](https://www.yinzhuoei.com/index.php/archives/765/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
