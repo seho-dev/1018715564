@@ -31,9 +31,9 @@ Hi, I'm Seho a full stack software engineer from China.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   27 hrs 57 mins  ████████████████████▓░░░░   82.83 %
-Less         5 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
-JSON         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JavaScript   28 hrs 48 mins  ████████████████████▓░░░░   83.26 %
+Less         5 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+JSON         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Rust         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
