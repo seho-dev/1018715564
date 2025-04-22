@@ -37,7 +37,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [吉隆坡-兰卡威之行](https://www.yinzhuoei.com/index.php/archives/830/)
+- [吉隆坡-兰卡威之行简版攻略](https://www.yinzhuoei.com/index.php/archives/830/)
 - [2024年终总结](https://www.yinzhuoei.com/index.php/archives/829/)
 - [一个关于GUI面板软件的想法](https://www.yinzhuoei.com/index.php/archives/824/)
 - [时间紧迫，我们快速过一下最新的Vue3.3](https://www.yinzhuoei.com/index.php/archives/818/)
