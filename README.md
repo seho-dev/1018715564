@@ -41,6 +41,7 @@ Markdown     1 hr 25 mins    █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2026 AI 编程工具大逃杀：从 Vibe Coding 到生产力革命](https://www.yinzhuoei.com/index.php/archives/851/)
 - [吉隆坡-兰卡威之行简版攻略](https://www.yinzhuoei.com/index.php/archives/830/)
 - [2024年终总结](https://www.yinzhuoei.com/index.php/archives/829/)
 - [一个关于GUI面板软件的想法](https://www.yinzhuoei.com/index.php/archives/824/)
@@ -50,7 +51,6 @@ Markdown     1 hr 25 mins    █▒░░░░░░░░░░░░░░░
 - [时隔2年锈迹斑斑的Vue3知识点](https://www.yinzhuoei.com/index.php/archives/794/)
 - [2022年终总结](https://www.yinzhuoei.com/index.php/archives/793/)
 - [程序语言理论与实现: 编译技术概论](https://www.yinzhuoei.com/index.php/archives/789/)
-- [在Next.js中打造一个Web IDE](https://www.yinzhuoei.com/index.php/archives/786/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
