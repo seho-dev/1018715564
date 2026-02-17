@@ -37,6 +37,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 年终总结：婚姻、代码与荧幕](https://www.yinzhuoei.com/index.php/archives/874/)
 - [2026 AI 编程工具大逃杀：从 Vibe Coding 到生产力革命](https://www.yinzhuoei.com/index.php/archives/851/)
 - [吉隆坡-兰卡威之行简版攻略](https://www.yinzhuoei.com/index.php/archives/830/)
 - [2024年终总结](https://www.yinzhuoei.com/index.php/archives/829/)
@@ -46,7 +47,6 @@ No activity tracked
 - [前端人需要掌握的HTTP知识](https://www.yinzhuoei.com/index.php/archives/803/)
 - [时隔2年锈迹斑斑的Vue3知识点](https://www.yinzhuoei.com/index.php/archives/794/)
 - [2022年终总结](https://www.yinzhuoei.com/index.php/archives/793/)
-- [程序语言理论与实现: 编译技术概论](https://www.yinzhuoei.com/index.php/archives/789/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=1018715564) -->
